@@ -12,8 +12,10 @@ apps before.
 [<img align="left" alt="itch.io" width="48px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio]
 [<img align="left" alt="play store" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore]
 
+<br />
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=berkinakkaya)](https://github.com/anuraghazra/github-readme-stats)
+
 [leetcode]: https://leetcode.com/berkinakkaya/
 [itchio]: http://berkinakkaya.itch.io/
 [playstore]: https://play.google.com/store/apps/developer?id=Berkin+Akkaya&hl=en
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=berkinakkaya)](https://github.com/anuraghazra/github-readme-stats)
