@@ -15,3 +15,5 @@ apps before.
 [leetcode]: https://leetcode.com/berkinakkaya/
 [itchio]: http://berkinakkaya.itch.io/
 [playstore]: https://play.google.com/store/apps/developer?id=Berkin+Akkaya&hl=en
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=berkinakkaya)](https://github.com/anuraghazra/github-readme-stats)
