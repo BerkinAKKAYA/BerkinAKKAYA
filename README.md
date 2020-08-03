@@ -12,4 +12,4 @@ apps before.
 
 [leetcode]: https://leetcode.com/berkinakkaya/
 [itchio]: http://berkinakkaya.itch.io/
-[playstore]: https://play.google.com/store/apps/developer?id=Berkin+Akkaya&hl=en)
+[playstore]: https://play.google.com/store/apps/developer?id=Berkin+Akkaya&hl=en
