@@ -15,7 +15,6 @@ apps before.
 <br />
 <br />
 
-### STATS
 [![Github Stats][githubstats]](https://github.com/anuraghazra/github-readme-stats)
 
 [leetcode]: https://leetcode.com/berkinakkaya/
