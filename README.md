@@ -8,9 +8,9 @@ apps before.
 
 ### LINKS
 
-<p>[<img align="left" alt="leetcode" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode] LeetCode</p>
-<p>[<img align="left" alt="itch.io" width="48px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio] Itch.IO</p>
-<p>[<img align="left" alt="play store" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore] Play Store</p>
+[<img align="left" alt="leetcode" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode] LeetCode
+[<img align="left" alt="itch.io" width="48px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio] Itch.IO
+[<img align="left" alt="play store" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore] Play Store
 
 [leetcode]: https://leetcode.com/berkinakkaya/
 [itchio]: http://berkinakkaya.itch.io/
