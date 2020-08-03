@@ -9,7 +9,10 @@ apps before.
 ### LINKS
 [<img align="left" alt="leetcode" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 [<img align="left" alt="itch.io" width="48px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio]
-[<img align="left" alt="play store" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore]\
+[<img align="left" alt="play store" width="48px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore]
+
+<br />
+<br />
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=berkinakkaya)](https://github.com/anuraghazra/github-readme-stats)
 
