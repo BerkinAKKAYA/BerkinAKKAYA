@@ -7,15 +7,6 @@ apps before.
 [See More on my Website](https://berkinakkaya.github.io)
 
 <br />
-
-[<img alt="leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode] LeetCode
-<br />
-[<img alt="itch.io" width="26px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio] Itch.IO
-<br />
-[<img alt="play store" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/play-store-12-729064.png" />][playstore] Play Store
-
-<br />
-<br />
 <br />
 
 [![Github Stats][githubstats]](https://github.com/anuraghazra/github-readme-stats)
