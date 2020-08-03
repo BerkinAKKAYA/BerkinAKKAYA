@@ -6,6 +6,11 @@ apps before.
 
 [See More on my Website](https://berkinakkaya.github.io)
 
+<div style="display: flex; align-items: center">
+  [<img alt="leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+  <span>LeetCode</span>
+</div>
+
 [<img alt="leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode] **LeetCode**
 <br />
 [<img alt="itch.io" width="22px" src="https://static.itch.io/images/itchio-textless-black.svg" />][itchio] **Itch.IO**
