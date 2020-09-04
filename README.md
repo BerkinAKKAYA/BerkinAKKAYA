@@ -5,3 +5,5 @@ am into creating **progressive web apps**. I created some mobile games and
 apps before.
 
 [See More on my Website](https://berkinakkaya.github.io)
+
+![Profile Views](https://gpvc.arturio.dev/berkinakkaya)
