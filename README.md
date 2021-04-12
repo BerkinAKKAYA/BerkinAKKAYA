@@ -6,6 +6,4 @@ apps before.
 
 [See More on my Website](https://berkinakkaya.github.io)
 
-![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=berkinakkaya)
-<br />
 ![Profile Views](https://gpvc.arturio.dev/berkinakkaya)
